@@ -6,7 +6,7 @@ Supports local play, online multiplayer (WIP), and AI opponents powered by Stock
 ---
 
 ## Overview
-ChessTwo is a full-stack chess app featuring:
+ChessTwo:
 - **Frontend:** React + Vite + Tailwind CSS  
 - **Backend:** Python (Flask or FastAPI planned)  
 - **Planned Features:** AI play, matchmaking, rating system, and FEN-based board state tracking.
