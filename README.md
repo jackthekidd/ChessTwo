@@ -1,7 +1,7 @@
 # ChessTwo
 The long awaited sequel to the board game "Chess."
 A web-based chess platform inspired by Chess.com and Lichess, except my version hasn't implemented en passant because I don't like it.
-Supports local play, online multiplayer (WIP), and AI opponents powered by Stockfish and minimax algorithms. 
+Supports local play, online multiplayer (work in progress), and AI opponents powered by Stockfish and minimax algorithms. 
 
 ---
 
@@ -42,19 +42,7 @@ cd backend
 pip install -r requirements.txt
 python main.py
 
-### Roadmap
 
-(done) Local play
-
-(done) Board and move visualization
-
-Online multiplayer
-
-(done) Play vs AI (Stockfish & Minimax opponent)
-
-Player accounts and ELO system
-
-Game history + replay viewer
 
 ### License
 This project is open source under the MIT License.
